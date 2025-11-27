@@ -1,10 +1,10 @@
-# 🕵️‍♂️ Unhide (Delphi Port)  
+# 🕵️‍♂️ Unhide (Delphi Process/Ports)  
 ### **Find hidden processes and hidden TCP/UDP ports concealed by rootkits, LKMs, or stealth techniques**  
 ![Delphi](https://img.shields.io/badge/Delphi-7-red?logo=delphi)
 
 **Original C author:** *Yago Jesús*  
 **Delphi 7 port & enhancements:** *Hs32-Idir*
-
+*[wWw.Hs32-Idir.tk]*
 ---
 
 ## 🔍 Overview
